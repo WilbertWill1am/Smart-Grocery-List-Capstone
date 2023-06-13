@@ -1,3 +1,6 @@
 [submodule "backend-grocery-list"]
 	path = backend-grocery-list
 	url = https://github.com/Kozzen890/Smart-Grocery-List-Capstone.git
+[submodule "backend-grocery-list-app"]
+	path = backend-grocery-list-app
+	url = https://github.com/Kozzen890/Smart-Grocery-List-Capstone.git
