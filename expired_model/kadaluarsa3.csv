@@ -1,0 +1,77 @@
+item,expiry_days_room,expiry_days_fridge,expiry_days_freezer
+Apples,5,30,-1
+Bananas,3,7,-1
+Berries,1,5,7
+Broccoli,3,7,-1
+Carrots,7,21,-1
+Celery,5,14,-1
+Citrus fruits,5,14,-1
+Corn,3,7,-1
+Cucumbers,3,7,-1
+Eggs,-1,14,-1
+Garlic,40,90,-1
+Grapes,3,7,-1
+Green beans,3,7,-1
+Lettuce,3,7,-1
+Mushrooms,7,14,-1
+Onions,35,90,-1
+Oranges,5,14,-1
+Papayas,3,7,-1
+Peppers,3,7,-1
+Potatoes,7,30,-1
+Pumpkins,35,90,-1
+Spinach,3,7,-1
+Strawberries,1,5,-1
+Tomatoes,3,7,-1
+Watermelon,5,14,-1
+Almonds,90,180,-1
+Avocados,7,14,-1
+Bacon,7,14,-1
+Bagels,5,14,-1
+Beef,4,7,-1
+Blueberries,3,7,-1
+Bread,5,14,-1
+Butter,30,90,-1
+Cabbage,7,14,-1
+Cake,4,7,-1
+Cheese,14,30,-1
+Chicken,2,4,-1
+Chocolate,60,90,-1
+Cilantro,5,14,-1
+Cinnamon,365,730,-1
+Clams,2,4,-1
+Coconut,14,30,-1
+Coffee,365,730,-1
+Cookies,14,30,-1
+Cornbread,3,7,-1
+Cranberries,7,14,-1
+Cream,7,14,-1
+Cereal,180,365,-1
+Doughnuts,3,7,-1
+Duck,1,2,-1
+Fish,2,4,-1
+Flaxseeds,180,365,-1
+French fries,3,7,-1
+Ginger,60,90,-1
+Granola bars,90,180,-1
+Ham,0,3,14
+Honey,365,730,-1
+Ice cream,0,1,30
+Jam,180,365,-1
+Kale,7,14,-1
+Kiwi,5,14,-1
+Lamb,0,7,14
+Lemon,14,30,-1
+Lime,14,30,-1
+Lobster,2,4,-1
+Mango,5,14,-1
+Mayonnaise,60,90,-1
+Milk,7,14,-1
+Mint,14,30,-1
+Mustard,365,730,-1
+Noodles,365,730,-1
+Oats,365,730,-1
+Oregano,730,1460,-1
+Pancakes,5,14,-1
+Pasta,730,1460,-1
+Peanut butter,365,730,-1
