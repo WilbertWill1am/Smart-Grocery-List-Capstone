@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Grocery List</string>
+    <string name="warning_password">Password terlalu pendek</string>
+    <string name="failed_register">Gagal Mendaftar Akun</string>
+    <string name="success_register">Register berhasil, silahkan login!</string>
+    <string name="havent_account">Belum punya akun ?</string>
+
+</resources>
