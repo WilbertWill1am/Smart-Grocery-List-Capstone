@@ -20,3 +20,16 @@ food waste, solving real-world problems.
 Overall, a smart grocery list app can solve real-world problems by streamlining the grocery 
 shopping experience, promoting healthier and more sustainable food choices, and reducing 
 food waste.
+
+## Authors
+
+- [Wilbert William (M166DSX2988) - Machine Learning](https://github.com/WilbertWill1am)
+- [Rifda Nabila Alya (M166DSY2987) - Machine Learning](https://github.com/rifdana)
+- [Rifki Alfares (M166DKX4330) - Machine Learning](https://github.com/Revee05)
+- [Timotius Winsen Bastian (C163DSX3022) - Cloud Computing](https://github.com/Kozzen890)
+- [Virlie Stephanie Manalu (C071DSY2898) - Cloud Computing](https://github.com/VirlieSM)
+- [Aldiansyah Pramudia Hasibuan (A121DKX4680) - Android Developer](https://github.com/aldiansyahpramudia)
+
+## Related Links
+
+[Documentation for API/Endpoint](https://documenter.getpostman.com/view/27920824/2s93sc6DbT)
