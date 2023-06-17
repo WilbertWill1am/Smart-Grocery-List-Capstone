@@ -43,3 +43,7 @@ flask --app app run
 - [Virlie Stephanie Manalu (C071DSY2898) - Cloud Computing](https://github.com/VirlieSM)
 - [Aldiansyah Pramudia Hasibuan (A121DKX4680) - Android Developer](https://github.com/aldiansyahpramudia)
 
+## Related Links
+https://ml-capstone-new-puemwgcuuq-et.a.run.app/ to get an Model API
+
+https://ml-capstone-new-puemwgcuuq-et.a.run.app/predict to predict a recommendation store
