@@ -44,11 +44,12 @@ class SignUpFragment : Fragment() {
             val name = binding.edRegisterName.text.toString()
             val email = binding.edRegisterEmail.text.toString()
             val password = binding.edRegisterPassword.text.toString()
+            val confPassword = binding.edRegisterConfPassword.text.toString()
 
             val imm = activity?.getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
             imm.hideSoftInputFromWindow(it.windowToken, 0)
 
-            signUpViewModel.signUp(name, email, password).observe(requireActivity()) {
+            signUpViewModel.signUp(name, email, password, confPassword).observe(requireActivity()) {
                 if (it != null) {
                     when (it) {
                         is Result.Loading -> {
@@ -91,10 +92,10 @@ class SignUpFragment : Fragment() {
             edRegisterEmail.isInvisible = state
             edRegisterName.isInvisible = state
             edRegisterPassword.isInvisible = state
+            edRegisterConfPassword.isInvisible= state
             tvRegisterDesc.isInvisible = state
             tvSignupHaveAccount.isInvisible = state
             btSignUp.isInvisible = state
-            imgLogo.isInvisible = state
             tvRegisterTitle.isInvisible = state
             tvNameTitle.isInvisible = state
             tvEmailTitle.isInvisible = state

@@ -30,7 +30,7 @@ object ApiConfig {
         val token = sharedPref.getString("token", null).toString()
 
         val retrofit = Retrofit.Builder()
-            .baseUrl("https://story-api.dicoding.dev/v1/")
+            .baseUrl("https://capstone-project-388408.de.r.appspot.com/")
             .addConverterFactory(GsonConverterFactory.create())
             .client(getInterceptor(token))
             .build()

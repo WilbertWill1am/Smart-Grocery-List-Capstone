@@ -13,10 +13,11 @@ class GroceryRepository(private val apiService: ApiService) {
         name: String,
         email: String,
         password: String,
+        confPassword: String,
     ): LiveData<Result<SignUpResponse>> = liveData(Dispatchers.IO) {
         emit(Result.Loading)
         try {
-            val response = apiService.postSignUp(name, email, password)
+            val response = apiService.postSignUp(name, email, password, confPassword)
             emit(Result.Success(response))
         } catch (e: Exception) {
             Log.e("SignUpViewModel", "postSignUp: ${e.message.toString()}")
